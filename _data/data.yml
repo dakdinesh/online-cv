@@ -27,12 +27,12 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Telugu
+        level: Native
+
+      - idiom: Hindi
         level: Professional
 
     interests:
